@@ -5,11 +5,10 @@
   Seu marketplace de coleta de resíduos
 </h4>
 
-  ![Ecoleta Logo](./imagens/print.png)
-  Format: ![Alt Text](ImagemApp)
+  ![Ecoleta Print](./imagens/print.png)
 
 <br>
-<br>
+
 
 ## :rocket:
 
