@@ -24,6 +24,8 @@ This project was developed at the [NEXT LEVEL WEEK](http://nextlevelweek.com/)
 3. usar os seguintes comandos no terminal aplicação 
 ```bash
   //dentro da pasta 'server'
+  yarn knex:migrate
+  yarn knex:seed
   yarn dev
   //dentro da pasta 'web' e 'mobile'
   yarn start
