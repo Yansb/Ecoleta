@@ -1,9 +1,6 @@
 <h1 align="center">
   <img alt='GoStack GoBarber' src='https://github.com/Yansb/Ecoleta/blob/master/web/src/assets/logo.svg' />
-  <br>
-  Ecoleta
 <h1>
-https://github.com/Yansb/Ecoleta/blob/master/web/src/assets/logo.svg
 <h4 align='center'>
   Seu marketplace de coleta de resíduos
 </h4>
