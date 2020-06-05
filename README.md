@@ -21,7 +21,7 @@ This project was developed at the [NEXT LEVEL WEEK](http://nextlevelweek.com/)
 ```bash
   npm install -g expo-cli
 ```
-1. usar os seguintes comandos no terminal aplicação 
+3. usar os seguintes comandos no terminal aplicação 
 ```bash
   //dentro da pasta 'server'
   yarn dev
