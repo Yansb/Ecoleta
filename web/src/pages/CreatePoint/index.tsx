@@ -139,8 +139,7 @@ const CreatePoint: React.FC = ()=>{
       
       if(selectedFile){
         data.append('image', selectedFile)  
-      }
-
+      }      
       await api.post('points', data);
 
       alert('Ponto de coleta criado!');
