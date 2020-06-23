@@ -1,18 +1,14 @@
 <h1 align="center">
   <img alt='GoStack GoBarber' src='https://github.com/Yansb/Ecoleta/blob/master/web/src/assets/logo.svg' />
-  <br>
-  Ecoleta
 <h1>
-https://github.com/Yansb/Ecoleta/blob/master/web/src/assets/logo.svg
 <h4 align='center'>
   Seu marketplace de coleta de resíduos
 </h4>
 
-  ![Ecoleta Logo](./imagens/print.png)
-  Format: ![Alt Text](ImagemApp)
+  ![Ecoleta Print](./imagens/print.png)
 
 <br>
-<br>
+
 
 ## :rocket:
 
@@ -25,9 +21,11 @@ This project was developed at the [NEXT LEVEL WEEK](http://nextlevelweek.com/)
 ```bash
   npm install -g expo-cli
 ```
-1. usar os seguintes comandos no terminal aplicação 
+3. usar os seguintes comandos no terminal aplicação 
 ```bash
   //dentro da pasta 'server'
+  yarn knex:migrate
+  yarn knex:seed
   yarn dev
   //dentro da pasta 'web' e 'mobile'
   yarn start
